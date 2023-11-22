@@ -11,8 +11,9 @@ section{
     padding-top: 7rem;
 }
 
-navbar-brand {
-    color : red;
+.container .navbar-brand u {
+
+    color: red;
 }
 #gallery{
     background-color: lightgray;
